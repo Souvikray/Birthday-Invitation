@@ -5,8 +5,20 @@ Check out the spreadsheet for reference: https://docs.google.com/spreadsheets/d/
 Link for Google forms: https://docs.google.com/forms/d/e/1FAIpQLSfTbv7IoHRk7hyRfOdtrGKHGko4OUF2G6gVA0N_8uOgtBsemg/viewform 
 
 Technology used:
+
+
 Google Spreadsheet API
+
+
 Google Forms
+
+
 Twilio API
+
+
 Flask Web App
+
+
 Python gspread module
+
+
