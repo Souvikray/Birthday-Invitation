@@ -4,7 +4,7 @@ This application automates the entire process of sending invitation to friends,c
 Check out the spreadsheet for reference: https://docs.google.com/spreadsheets/d/1DnCj-8DrdUzO2qlG6wNnNAiwydLK0iJ2V__zRmacMBY/edit#gid=0
 Link for Google forms: https://docs.google.com/forms/d/e/1FAIpQLSfTbv7IoHRk7hyRfOdtrGKHGko4OUF2G6gVA0N_8uOgtBsemg/viewform 
 
-Technology used:
+Technologies used:
 
 
 Google Spreadsheet API
