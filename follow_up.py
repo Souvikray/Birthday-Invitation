@@ -19,7 +19,7 @@ gi_g = gi.get_worksheet(0)
 ACCOUNT_SID = 'AC598fdd1a56846658****************'
 AUTH_TOKEN = 'ce2337ed21d39036****************'
 #your twilio number
-my_twilio_num = "+185646*****"
+my_twilio_num = "+1856*******"
 
 #create a client object containing your twilio credential
 client = Client(ACCOUNT_SID, AUTH_TOKEN) 
