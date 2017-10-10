@@ -16,8 +16,8 @@ gi = client.open("GuestInfo")
 gi_g = gi.get_worksheet(0)
 
 #your twilio account credentials 
-ACCOUNT_SID = 'AC598fdd1a56846658f660************'
-AUTH_TOKEN = 'ce2337ed21d390367e01************'
+ACCOUNT_SID = 'AC598fdd1a56846658****************'
+AUTH_TOKEN = 'ce2337ed21d39036****************'
 #your twilio number
 my_twilio_num = "+185646*****"
 
